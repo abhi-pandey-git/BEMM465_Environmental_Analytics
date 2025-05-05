@@ -1,0 +1,346 @@
+region,category,parameter,mode,powertrain,year,unit,value
+United Kingdom,Historical,EV sales,Vans,BEV,2010,Vehicles,230
+United Kingdom,Historical,EV stock,Vans,BEV,2010,Vehicles,3700
+United Kingdom,Historical,EV sales,Trucks,BEV,2010,Vehicles,9
+United Kingdom,Historical,EV stock,Trucks,BEV,2010,Vehicles,940
+United Kingdom,Historical,EV stock,Vans,FCEV,2010,Vehicles,4
+United Kingdom,Historical,EV sales,Cars,BEV,2010,Vehicles,240
+United Kingdom,Historical,EV stock,Cars,BEV,2010,Vehicles,1500
+United Kingdom,Historical,EV sales,Cars,PHEV,2010,Vehicles,21
+United Kingdom,Historical,EV stock,Cars,PHEV,2010,Vehicles,21
+United Kingdom,Historical,EV sales,Buses,BEV,2010,Vehicles,4
+United Kingdom,Historical,EV stock,Buses,BEV,2010,Vehicles,80
+United Kingdom,Historical,EV stock share,Trucks,EV,2010,percent,0.189999998
+United Kingdom,Historical,EV stock share,Cars,EV,2010,percent,0.0053
+United Kingdom,Historical,EV stock share,Vans,EV,2010,percent,0.109999999
+United Kingdom,Historical,EV sales share,Cars,EV,2010,percent,0.013
+United Kingdom,Historical,EV sales share,Trucks,EV,2010,percent,0.025
+United Kingdom,Historical,EV sales share,Buses,EV,2010,percent,0.041999999
+United Kingdom,Historical,EV sales share,Vans,EV,2010,percent,0.100000001
+United Kingdom,Historical,EV stock share,Buses,EV,2010,percent,0.071999997
+United Kingdom,Historical,EV stock share,Buses,EV,2011,percent,0.079999998
+United Kingdom,Historical,EV sales share,Vans,EV,2011,percent,0.085000001
+United Kingdom,Historical,EV sales share,Buses,EV,2011,percent,0.026000001
+United Kingdom,Historical,EV sales share,Trucks,EV,2011,percent,0.012
+United Kingdom,Historical,EV sales share,Cars,EV,2011,percent,0.061999999
+United Kingdom,Historical,EV stock share,Vans,EV,2011,percent,0.098999999
+United Kingdom,Historical,EV stock share,Cars,EV,2011,percent,0.009
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2011,charging points,1500
+United Kingdom,Historical,EV stock share,Trucks,EV,2011,percent,0.150000006
+United Kingdom,Historical,EV stock,Buses,BEV,2011,Vehicles,88
+United Kingdom,Historical,EV sales,Buses,BEV,2011,Vehicles,2
+United Kingdom,Historical,EV stock,Cars,PHEV,2011,Vehicles,28
+United Kingdom,Historical,EV sales,Cars,PHEV,2011,Vehicles,7
+United Kingdom,Historical,EV stock,Cars,BEV,2011,Vehicles,2600
+United Kingdom,Historical,EV sales,Cars,BEV,2011,Vehicles,1200
+United Kingdom,Historical,EV stock,Vans,FCEV,2011,Vehicles,4
+United Kingdom,Historical,EV stock,Trucks,BEV,2011,Vehicles,860
+United Kingdom,Historical,EV sales,Trucks,BEV,2011,Vehicles,5
+United Kingdom,Historical,EV stock,Vans,BEV,2011,Vehicles,3600
+United Kingdom,Historical,EV sales,Vans,BEV,2011,Vehicles,220
+United Kingdom,Historical,EV sales,Vans,BEV,2012,Vehicles,410
+United Kingdom,Historical,EV stock,Vans,BEV,2012,Vehicles,3700
+United Kingdom,Historical,EV sales,Trucks,BEV,2012,Vehicles,6
+United Kingdom,Historical,EV stock,Trucks,BEV,2012,Vehicles,700
+United Kingdom,Historical,EV stock,Vans,FCEV,2012,Vehicles,4
+United Kingdom,Historical,EV sales,Cars,BEV,2012,Vehicles,1600
+United Kingdom,Historical,EV stock,Cars,BEV,2012,Vehicles,4100
+United Kingdom,Historical,EV sales,Cars,PHEV,2012,Vehicles,970
+United Kingdom,Historical,EV stock,Cars,PHEV,2012,Vehicles,990
+United Kingdom,Historical,EV sales,Buses,BEV,2012,Vehicles,14
+United Kingdom,Historical,EV stock,Buses,BEV,2012,Vehicles,100
+United Kingdom,Historical,EV stock share,Trucks,EV,2012,percent,0.129999995
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2012,charging points,36
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2012,charging points,2800
+United Kingdom,Historical,EV stock share,Cars,EV,2012,percent,0.017000001
+United Kingdom,Historical,EV stock share,Vans,EV,2012,percent,0.100000001
+United Kingdom,Historical,EV sales share,Cars,EV,2012,percent,0.129999995
+United Kingdom,Historical,EV sales share,Trucks,EV,2012,percent,0.014
+United Kingdom,Historical,EV sales share,Buses,EV,2012,percent,0.150000006
+United Kingdom,Historical,EV sales share,Vans,EV,2012,percent,0.170000002
+United Kingdom,Historical,EV stock share,Buses,EV,2012,percent,0.090999998
+United Kingdom,Historical,EV stock share,Buses,EV,2013,percent,0.109999999
+United Kingdom,Historical,EV sales share,Vans,EV,2013,percent,0.109999999
+United Kingdom,Historical,EV sales share,Buses,EV,2013,percent,0.25999999
+United Kingdom,Historical,EV sales share,Cars,EV,2013,percent,0.159999996
+United Kingdom,Historical,EV stock share,Vans,EV,2013,percent,0.097000003
+United Kingdom,Historical,EV stock share,Cars,EV,2013,percent,0.027000001
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2013,charging points,260
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2013,charging points,5400
+United Kingdom,Historical,EV stock share,Trucks,EV,2013,percent,0.100000001
+United Kingdom,Historical,EV stock,Buses,BEV,2013,Vehicles,120
+United Kingdom,Historical,EV sales,Buses,BEV,2013,Vehicles,23
+United Kingdom,Historical,EV stock,Cars,PHEV,2013,Vehicles,2000
+United Kingdom,Historical,EV sales,Cars,PHEV,2013,Vehicles,1100
+United Kingdom,Historical,EV stock,Cars,BEV,2013,Vehicles,6200
+United Kingdom,Historical,EV sales,Cars,BEV,2013,Vehicles,2600
+United Kingdom,Historical,EV stock,Vans,FCEV,2013,Vehicles,4
+United Kingdom,Historical,EV stock,Trucks,BEV,2013,Vehicles,570
+United Kingdom,Historical,EV stock,Vans,BEV,2013,Vehicles,3600
+United Kingdom,Historical,EV sales,Vans,BEV,2013,Vehicles,290
+United Kingdom,Historical,EV sales,Vans,BEV,2014,Vehicles,790
+United Kingdom,Historical,EV stock,Vans,BEV,2014,Vehicles,4100
+United Kingdom,Historical,EV stock,Trucks,BEV,2014,Vehicles,500
+United Kingdom,Historical,EV sales,Trucks,BEV,2014,Vehicles,8
+United Kingdom,Historical,EV stock,Vans,FCEV,2014,Vehicles,4
+United Kingdom,Historical,EV sales,Vans,PHEV,2014,Vehicles,4
+United Kingdom,Historical,EV sales,Cars,BEV,2014,Vehicles,6700
+United Kingdom,Historical,EV stock,Vans,PHEV,2014,Vehicles,4
+United Kingdom,Historical,EV stock,Cars,BEV,2014,Vehicles,12000
+United Kingdom,Historical,EV sales,Cars,PHEV,2014,Vehicles,7800
+United Kingdom,Historical,EV stock,Cars,PHEV,2014,Vehicles,9700
+United Kingdom,Historical,EV sales,Buses,BEV,2014,Vehicles,47
+United Kingdom,Historical,EV stock,Buses,BEV,2014,Vehicles,170
+United Kingdom,Historical,EV stock share,Trucks,EV,2014,percent,0.088
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2014,charging points,520
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2014,charging points,7200
+United Kingdom,Historical,EV stock share,Cars,EV,2014,percent,0.071999997
+United Kingdom,Historical,EV stock share,Vans,EV,2014,percent,0.109999999
+United Kingdom,Historical,EV sales share,Cars,EV,2014,percent,0.589999974
+United Kingdom,Historical,EV sales share,Trucks,EV,2014,percent,0.021
+United Kingdom,Historical,EV sales share,Buses,EV,2014,percent,0.540000021
+United Kingdom,Historical,EV sales share,Vans,EV,2014,percent,0.25
+United Kingdom,Historical,EV stock share,Buses,EV,2014,percent,0.150000006
+United Kingdom,Historical,EV stock share,Buses,EV,2015,percent,0.170000002
+United Kingdom,Historical,EV sales share,Vans,EV,2015,percent,0.280000001
+United Kingdom,Historical,EV sales share,Buses,EV,2015,percent,0.140000001
+United Kingdom,Historical,EV sales share,Trucks,EV,2015,percent,0.006
+United Kingdom,Historical,EV sales share,Cars,EV,2015,percent,1.100000024
+United Kingdom,Historical,EV stock share,Vans,EV,2015,percent,0.119999997
+United Kingdom,Historical,EV stock share,Cars,EV,2015,percent,0.159999996
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2015,charging points,1100
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2015,charging points,8200
+United Kingdom,Historical,EV stock share,Trucks,EV,2015,percent,0.07
+United Kingdom,Historical,EV stock,Buses,BEV,2015,Vehicles,200
+United Kingdom,Historical,EV sales,Buses,BEV,2015,Vehicles,24
+United Kingdom,Historical,EV stock,Cars,PHEV,2015,Vehicles,27000
+United Kingdom,Historical,EV sales,Cars,PHEV,2015,Vehicles,19000
+United Kingdom,Historical,EV stock,Cars,BEV,2015,Vehicles,21000
+United Kingdom,Historical,EV sales,Cars,FCEV,2015,Vehicles,11
+United Kingdom,Historical,EV stock,Vans,PHEV,2015,Vehicles,100
+United Kingdom,Historical,EV sales,Cars,BEV,2015,Vehicles,10000
+United Kingdom,Historical,EV sales,Vans,PHEV,2015,Vehicles,98
+United Kingdom,Historical,EV stock,Vans,FCEV,2015,Vehicles,4
+United Kingdom,Historical,EV sales,Trucks,BEV,2015,Vehicles,3
+United Kingdom,Historical,EV stock,Trucks,BEV,2015,Vehicles,410
+United Kingdom,Historical,EV stock,Vans,BEV,2015,Vehicles,4600
+United Kingdom,Historical,EV sales,Vans,BEV,2015,Vehicles,960
+United Kingdom,Historical,EV sales,Vans,BEV,2016,Vehicles,1000
+United Kingdom,Historical,EV stock,Vans,BEV,2016,Vehicles,5300
+United Kingdom,Historical,EV sales,Buses,PHEV,2016,Vehicles,140
+United Kingdom,Historical,EV stock,Buses,PHEV,2016,Vehicles,140
+United Kingdom,Historical,EV stock,Trucks,BEV,2016,Vehicles,400
+United Kingdom,Historical,EV sales,Trucks,BEV,2016,Vehicles,8
+United Kingdom,Historical,EV stock,Vans,FCEV,2016,Vehicles,3
+United Kingdom,Historical,EV sales,Vans,PHEV,2016,Vehicles,78
+United Kingdom,Historical,EV sales,Cars,BEV,2016,Vehicles,10000
+United Kingdom,Historical,EV stock,Vans,PHEV,2016,Vehicles,180
+United Kingdom,Historical,EV sales,Cars,FCEV,2016,Vehicles,10
+United Kingdom,Historical,EV stock,Cars,BEV,2016,Vehicles,30000
+United Kingdom,Historical,EV sales,Cars,PHEV,2016,Vehicles,29000
+United Kingdom,Historical,EV stock,Cars,PHEV,2016,Vehicles,55000
+United Kingdom,Historical,EV sales,Buses,BEV,2016,Vehicles,59
+United Kingdom,Historical,EV stock,Buses,BEV,2016,Vehicles,260
+United Kingdom,Historical,EV sales,Buses,FCEV,2016,Vehicles,20
+United Kingdom,Historical,EV stock share,Trucks,EV,2016,percent,0.066
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2016,charging points,1800
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2016,charging points,11000
+United Kingdom,Historical,EV stock share,Cars,EV,2016,percent,0.270000011
+United Kingdom,Historical,EV stock share,Vans,EV,2016,percent,0.129999995
+United Kingdom,Historical,EV sales share,Cars,EV,2016,percent,1.399999976
+United Kingdom,Historical,EV sales share,Trucks,EV,2016,percent,0.015
+United Kingdom,Historical,EV sales share,Buses,EV,2016,percent,1.200000048
+United Kingdom,Historical,EV sales share,Vans,EV,2016,percent,0.289999992
+United Kingdom,Historical,EV stock share,Buses,EV,2016,percent,0.349999994
+United Kingdom,Historical,EV stock share,Buses,EV,2017,percent,0.409999996
+United Kingdom,Historical,EV sales share,Buses,EV,2017,percent,0.469999999
+United Kingdom,Historical,EV sales share,Trucks,EV,2017,percent,0.0077
+United Kingdom,Historical,EV sales share,Cars,EV,2017,percent,1.899999976
+United Kingdom,Historical,EV stock share,Vans,EV,2017,percent,0.150000006
+United Kingdom,Historical,EV sales share,Vans,EV,2017,percent,0.370000005
+United Kingdom,Historical,EV stock share,Cars,EV,2017,percent,0.400000006
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2017,charging points,2200
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2017,charging points,13000
+United Kingdom,Historical,EV stock share,Trucks,EV,2017,percent,0.057999998
+United Kingdom,Historical,EV sales,Buses,FCEV,2017,Vehicles,5
+United Kingdom,Historical,EV stock,Buses,BEV,2017,Vehicles,300
+United Kingdom,Historical,EV sales,Buses,BEV,2017,Vehicles,39
+United Kingdom,Historical,EV stock,Cars,PHEV,2017,Vehicles,87000
+United Kingdom,Historical,EV sales,Cars,PHEV,2017,Vehicles,35000
+United Kingdom,Historical,EV stock,Cars,BEV,2017,Vehicles,42000
+United Kingdom,Historical,EV sales,Cars,FCEV,2017,Vehicles,34
+United Kingdom,Historical,EV stock,Vans,PHEV,2017,Vehicles,220
+United Kingdom,Historical,EV sales,Cars,BEV,2017,Vehicles,14000
+United Kingdom,Historical,EV sales,Vans,PHEV,2017,Vehicles,94
+United Kingdom,Historical,EV stock,Vans,FCEV,2017,Vehicles,4
+United Kingdom,Historical,EV stock,Cars,FCEV,2017,Vehicles,34
+United Kingdom,Historical,EV sales,Trucks,BEV,2017,Vehicles,4
+United Kingdom,Historical,EV stock,Trucks,BEV,2017,Vehicles,350
+United Kingdom,Historical,EV stock,Buses,PHEV,2017,Vehicles,150
+United Kingdom,Historical,EV sales,Buses,PHEV,2017,Vehicles,18
+United Kingdom,Historical,EV stock,Vans,BEV,2017,Vehicles,6300
+United Kingdom,Historical,EV sales,Vans,BEV,2017,Vehicles,1300
+United Kingdom,Historical,EV sales,Vans,BEV,2018,Vehicles,1500
+United Kingdom,Historical,EV stock,Vans,BEV,2018,Vehicles,7500
+United Kingdom,Historical,EV sales,Buses,PHEV,2018,Vehicles,65
+United Kingdom,Historical,EV stock,Buses,FCEV,2018,Vehicles,10
+United Kingdom,Historical,EV stock,Buses,PHEV,2018,Vehicles,220
+United Kingdom,Historical,EV stock,Trucks,BEV,2018,Vehicles,320
+United Kingdom,Historical,EV sales,Trucks,BEV,2018,Vehicles,12
+United Kingdom,Historical,EV stock,Cars,FCEV,2018,Vehicles,70
+United Kingdom,Historical,EV stock,Vans,FCEV,2018,Vehicles,3
+United Kingdom,Historical,EV sales,Vans,PHEV,2018,Vehicles,150
+United Kingdom,Historical,EV sales,Cars,BEV,2018,Vehicles,16000
+United Kingdom,Historical,EV stock,Vans,PHEV,2018,Vehicles,410
+United Kingdom,Historical,EV sales,Cars,FCEV,2018,Vehicles,36
+United Kingdom,Historical,EV stock,Cars,BEV,2018,Vehicles,56000
+United Kingdom,Historical,EV sales,Cars,PHEV,2018,Vehicles,46000
+United Kingdom,Historical,EV stock,Cars,PHEV,2018,Vehicles,130000
+United Kingdom,Historical,EV sales,Buses,BEV,2018,Vehicles,89
+United Kingdom,Historical,EV stock,Buses,BEV,2018,Vehicles,400
+United Kingdom,Historical,EV sales,Buses,FCEV,2018,Vehicles,10
+United Kingdom,Historical,EV stock share,Trucks,EV,2018,percent,0.054000001
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2018,charging points,2700
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2018,charging points,15000
+United Kingdom,Historical,EV stock share,Cars,EV,2018,percent,0.569999993
+United Kingdom,Historical,EV sales share,Vans,EV,2018,percent,0.449999988
+United Kingdom,Historical,EV stock share,Vans,EV,2018,percent,0.180000007
+United Kingdom,Historical,EV sales share,Cars,EV,2018,percent,2.599999905
+United Kingdom,Historical,EV sales share,Trucks,EV,2018,percent,0.024
+United Kingdom,Historical,EV sales share,Buses,EV,2018,percent,1
+United Kingdom,Historical,EV stock share,Buses,EV,2018,percent,0.560000002
+United Kingdom,Historical,EV stock share,Buses,EV,2019,percent,0.660000026
+United Kingdom,Historical,EV sales share,Buses,EV,2019,percent,1.399999976
+United Kingdom,Historical,EV sales share,Cars,EV,2019,percent,3.299999952
+United Kingdom,Historical,EV stock share,Vans,EV,2019,percent,0.239999995
+United Kingdom,Historical,EV sales share,Vans,EV,2019,percent,0.970000029
+United Kingdom,Historical,EV stock share,Cars,EV,2019,percent,0.75999999
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2019,charging points,2800
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2019,charging points,14000
+United Kingdom,Historical,EV stock share,Trucks,EV,2019,percent,0.055
+United Kingdom,Historical,EV sales share,Trucks,EV,2019,percent,0.035999998
+United Kingdom,Historical,EV stock,Buses,BEV,2019,Vehicles,510
+United Kingdom,Historical,EV sales,Buses,BEV,2019,Vehicles,120
+United Kingdom,Historical,EV stock,Cars,PHEV,2019,Vehicles,160000
+United Kingdom,Historical,EV sales,Cars,PHEV,2019,Vehicles,37000
+United Kingdom,Historical,EV stock,Cars,BEV,2019,Vehicles,91000
+United Kingdom,Historical,EV sales,Cars,FCEV,2019,Vehicles,68
+United Kingdom,Historical,EV stock,Vans,PHEV,2019,Vehicles,590
+United Kingdom,Historical,EV sales,Cars,BEV,2019,Vehicles,38000
+United Kingdom,Historical,EV sales,Vans,PHEV,2019,Vehicles,210
+United Kingdom,Historical,EV stock,Vans,FCEV,2019,Vehicles,4
+United Kingdom,Historical,EV stock,Cars,FCEV,2019,Vehicles,170
+United Kingdom,Historical,EV sales,Trucks,BEV,2019,Vehicles,20
+United Kingdom,Historical,EV stock,Trucks,BEV,2019,Vehicles,340
+United Kingdom,Historical,EV stock,Buses,PHEV,2019,Vehicles,220
+United Kingdom,Historical,EV stock,Vans,BEV,2019,Vehicles,10000
+United Kingdom,Historical,EV sales,Vans,BEV,2019,Vehicles,3500
+United Kingdom,Historical,EV sales,Vans,BEV,2020,Vehicles,5700
+United Kingdom,Historical,EV stock,Vans,BEV,2020,Vehicles,16000
+United Kingdom,Historical,EV stock,Buses,PHEV,2020,Vehicles,220
+United Kingdom,Historical,EV stock,Trucks,BEV,2020,Vehicles,320
+United Kingdom,Historical,EV sales,Trucks,BEV,2020,Vehicles,16
+United Kingdom,Historical,EV stock,Cars,FCEV,2020,Vehicles,230
+United Kingdom,Historical,EV stock,Vans,FCEV,2020,Vehicles,4
+United Kingdom,Historical,EV sales,Vans,PHEV,2020,Vehicles,560
+United Kingdom,Historical,EV sales,Cars,BEV,2020,Vehicles,110000
+United Kingdom,Historical,EV stock,Vans,PHEV,2020,Vehicles,1100
+United Kingdom,Historical,EV sales,Cars,FCEV,2020,Vehicles,57
+United Kingdom,Historical,EV stock,Cars,BEV,2020,Vehicles,190000
+United Kingdom,Historical,EV sales,Cars,PHEV,2020,Vehicles,68000
+United Kingdom,Historical,EV stock,Cars,PHEV,2020,Vehicles,220000
+United Kingdom,Historical,EV sales,Buses,BEV,2020,Vehicles,300
+United Kingdom,Historical,EV stock,Buses,BEV,2020,Vehicles,820
+United Kingdom,Historical,EV sales,Buses,FCEV,2020,Vehicles,18
+United Kingdom,Historical,EV sales share,Trucks,EV,2020,percent,0.033
+United Kingdom,Historical,EV stock share,Trucks,EV,2020,percent,0.044
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2020,charging points,3900
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2020,charging points,17000
+United Kingdom,Historical,EV stock share,Cars,EV,2020,percent,1.299999952
+United Kingdom,Historical,EV sales share,Vans,EV,2020,percent,2.099999905
+United Kingdom,Historical,EV stock share,Vans,EV,2020,percent,0.319999993
+United Kingdom,Historical,EV sales share,Cars,EV,2020,percent,11
+United Kingdom,Historical,EV sales share,Buses,EV,2020,percent,11
+United Kingdom,Historical,EV stock share,Buses,EV,2020,percent,0.959999979
+United Kingdom,Historical,EV stock share,Buses,EV,2021,percent,2
+United Kingdom,Historical,EV sales share,Buses,EV,2021,percent,8.699999809
+United Kingdom,Historical,EV sales share,Cars,EV,2021,percent,19
+United Kingdom,Historical,EV stock share,Vans,EV,2021,percent,0.560000002
+United Kingdom,Historical,EV sales share,Vans,EV,2021,percent,3.799999952
+United Kingdom,Historical,EV stock share,Cars,EV,2021,percent,2.099999905
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2021,charging points,5200
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2021,charging points,23000
+United Kingdom,Historical,EV stock share,Trucks,EV,2021,percent,0.061000001
+United Kingdom,Historical,EV sales share,Trucks,EV,2021,percent,0.340000004
+United Kingdom,Historical,EV sales,Buses,FCEV,2021,Vehicles,15
+United Kingdom,Historical,EV stock,Buses,BEV,2021,Vehicles,1400
+United Kingdom,Historical,EV sales,Buses,BEV,2021,Vehicles,540
+United Kingdom,Historical,EV stock,Cars,PHEV,2021,Vehicles,330000
+United Kingdom,Historical,EV sales,Cars,PHEV,2021,Vehicles,120000
+United Kingdom,Historical,EV stock,Cars,BEV,2021,Vehicles,380000
+United Kingdom,Historical,EV sales,Cars,FCEV,2021,Vehicles,12
+United Kingdom,Historical,EV stock,Vans,PHEV,2021,Vehicles,2300
+United Kingdom,Historical,EV sales,Cars,BEV,2021,Vehicles,190000
+United Kingdom,Historical,EV sales,Vans,PHEV,2021,Vehicles,1200
+United Kingdom,Historical,EV stock,Vans,FCEV,2021,Vehicles,5
+United Kingdom,Historical,EV stock,Cars,FCEV,2021,Vehicles,240
+United Kingdom,Historical,EV sales,Trucks,BEV,2021,Vehicles,140
+United Kingdom,Historical,EV stock,Trucks,BEV,2021,Vehicles,450
+United Kingdom,Historical,EV stock,Buses,PHEV,2021,Vehicles,220
+United Kingdom,Historical,EV stock,Vans,BEV,2021,Vehicles,28000
+United Kingdom,Historical,EV sales,Vans,BEV,2021,Vehicles,12000
+United Kingdom,Historical,EV sales,Vans,BEV,2022,Vehicles,17000
+United Kingdom,Historical,EV stock,Vans,BEV,2022,Vehicles,39000
+United Kingdom,Historical,EV stock,Buses,PHEV,2022,Vehicles,220
+United Kingdom,Historical,EV stock,Buses,FCEV,2022,Vehicles,37
+United Kingdom,Historical,EV sales,Buses,FCEV,2022,Vehicles,65
+United Kingdom,Historical,EV stock,Trucks,BEV,2022,Vehicles,950
+United Kingdom,Historical,EV sales,Trucks,BEV,2022,Vehicles,510
+United Kingdom,Historical,EV stock,Cars,PHEV,2022,Vehicles,400000
+United Kingdom,Historical,EV stock,Cars,FCEV,2022,Vehicles,190
+United Kingdom,Historical,EV stock,Vans,FCEV,2022,Vehicles,5
+United Kingdom,Historical,EV sales,Vans,PHEV,2022,Vehicles,410
+United Kingdom,Historical,EV sales,Cars,BEV,2022,Vehicles,270000
+United Kingdom,Historical,EV stock,Vans,PHEV,2022,Vehicles,2700
+United Kingdom,Historical,EV sales,Cars,FCEV,2022,Vehicles,7
+United Kingdom,Historical,EV stock,Cars,BEV,2022,Vehicles,550000
+United Kingdom,Historical,EV sales,Cars,PHEV,2022,Vehicles,100000
+United Kingdom,Historical,EV sales,Buses,BEV,2022,Vehicles,440
+United Kingdom,Historical,EV stock,Buses,BEV,2022,Vehicles,1800
+United Kingdom,Historical,EV sales share,Trucks,EV,2022,percent,1.100000024
+United Kingdom,Historical,EV stock share,Trucks,EV,2022,percent,0.129999995
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2022,charging points,6900
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2022,charging points,30000
+United Kingdom,Historical,EV stock share,Cars,EV,2022,percent,2.900000095
+United Kingdom,Historical,EV sales share,Vans,EV,2022,percent,6.199999809
+United Kingdom,Historical,EV stock share,Vans,EV,2022,percent,0.779999971
+United Kingdom,Historical,EV sales share,Cars,EV,2022,percent,23
+United Kingdom,Historical,EV sales share,Buses,EV,2022,percent,6.5
+United Kingdom,Historical,EV stock share,Buses,EV,2022,percent,2.700000048
+United Kingdom,Historical,EV stock share,Buses,EV,2023,percent,4.5
+United Kingdom,Historical,EV sales share,Buses,EV,2023,percent,17
+United Kingdom,Historical,EV sales share,Cars,EV,2023,percent,24
+United Kingdom,Historical,EV stock share,Vans,EV,2023,percent,1.299999952
+United Kingdom,Historical,EV sales share,Vans,EV,2023,percent,6.5
+United Kingdom,Historical,EV stock share,Cars,EV,2023,percent,5
+United Kingdom,Historical,EV charging points,EV,Publicly available fast,2023,charging points,10000
+United Kingdom,Historical,EV charging points,EV,Publicly available slow,2023,charging points,43000
+United Kingdom,Historical,EV stock share,Trucks,EV,2023,percent,0.310000002
+United Kingdom,Historical,EV sales share,Trucks,EV,2023,percent,2.700000048
+United Kingdom,Historical,EV stock,Buses,BEV,2023,Vehicles,3000
+United Kingdom,Historical,EV sales,Buses,BEV,2023,Vehicles,1300
+United Kingdom,Historical,EV sales,Cars,PHEV,2023,Vehicles,140000
+United Kingdom,Historical,EV stock,Cars,BEV,2023,Vehicles,980000
+United Kingdom,Historical,EV sales,Cars,FCEV,2023,Vehicles,25
+United Kingdom,Historical,EV stock,Vans,PHEV,2023,Vehicles,2900
+United Kingdom,Historical,EV sales,Cars,BEV,2023,Vehicles,310000
+United Kingdom,Historical,EV sales,Vans,PHEV,2023,Vehicles,110
+United Kingdom,Historical,EV stock,Cars,FCEV,2023,Vehicles,260
+United Kingdom,Historical,EV stock,Cars,PHEV,2023,Vehicles,600000
+United Kingdom,Historical,EV sales,Trucks,BEV,2023,Vehicles,1400
+United Kingdom,Historical,EV stock,Trucks,BEV,2023,Vehicles,2300
+United Kingdom,Historical,EV sales,Buses,FCEV,2023,Vehicles,43
+United Kingdom,Historical,EV stock,Buses,FCEV,2023,Vehicles,180
+United Kingdom,Historical,EV stock,Buses,PHEV,2023,Vehicles,220
+United Kingdom,Historical,EV stock,Vans,BEV,2023,Vehicles,68000
+United Kingdom,Historical,EV sales,Vans,BEV,2023,Vehicles,22000
